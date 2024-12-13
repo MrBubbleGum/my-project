@@ -1,0 +1,9 @@
+﻿<Window x:Class="GeometryApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Geometry Viewer" Height="450" Width="800">
+    <Grid>
+        <ListBox Name="FiguresList" HorizontalAlignment="Left" Height="400" VerticalAlignment="Top" Width="780"/>
+        <Button Content="Load Figures" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="100" Click="LoadFigures_Click"/>
+    </Grid>
+</Window>

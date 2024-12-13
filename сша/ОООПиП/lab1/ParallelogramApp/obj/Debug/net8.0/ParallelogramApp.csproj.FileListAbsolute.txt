@@ -1,0 +1,15 @@
+C:\lw2c\ОООПиП\lab1\ParallelogramApp\bin\Debug\net8.0\ParallelogramApp.exe
+C:\lw2c\ОООПиП\lab1\ParallelogramApp\bin\Debug\net8.0\ParallelogramApp.deps.json
+C:\lw2c\ОООПиП\lab1\ParallelogramApp\bin\Debug\net8.0\ParallelogramApp.runtimeconfig.json
+C:\lw2c\ОООПиП\lab1\ParallelogramApp\bin\Debug\net8.0\ParallelogramApp.dll
+C:\lw2c\ОООПиП\lab1\ParallelogramApp\bin\Debug\net8.0\ParallelogramApp.pdb
+C:\lw2c\ОООПиП\lab1\ParallelogramApp\obj\Debug\net8.0\ParallelogramApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\lw2c\ОООПиП\lab1\ParallelogramApp\obj\Debug\net8.0\ParallelogramApp.AssemblyInfoInputs.cache
+C:\lw2c\ОООПиП\lab1\ParallelogramApp\obj\Debug\net8.0\ParallelogramApp.AssemblyInfo.cs
+C:\lw2c\ОООПиП\lab1\ParallelogramApp\obj\Debug\net8.0\ParallelogramApp.csproj.CoreCompileInputs.cache
+C:\lw2c\ОООПиП\lab1\ParallelogramApp\obj\Debug\net8.0\ParallelogramApp.dll
+C:\lw2c\ОООПиП\lab1\ParallelogramApp\obj\Debug\net8.0\refint\ParallelogramApp.dll
+C:\lw2c\ОООПиП\lab1\ParallelogramApp\obj\Debug\net8.0\ParallelogramApp.pdb
+C:\lw2c\ОООПиП\lab1\ParallelogramApp\obj\Debug\net8.0\ParallelogramApp.genruntimeconfig.cache
+C:\lw2c\ОООПиП\lab1\ParallelogramApp\obj\Debug\net8.0\ref\ParallelogramApp.dll
+C:\lw2c\ОООПиП\lab1\ParallelogramApp\bin\Debug\net8.0\ParallelogramApp.xml

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Сайт</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="grid-container">
+         <div class="logo">
+            
+         </div>
+
+         <header>
+             <h2>Телеканал СТС представляет
+             </h2>
+         </header>
+
+        <nav>
+            <h2>Панель навигации</h2>
+            <ul>
+                <li><a href="C:\Users\User\Desktop\kurs2\ctc\1\1.1.html">Лабораторная работа № 1</a></li>
+                <li><a href="222.html">Лабораторная работа № 2</a></li>
+                <li><a href="333.html">Лабораторная работа № 3</a></li>
+                <li><a href="444.html">Лабораторная работа № 4</a></li>
+            </ul>
+        </nav>
+
+        <section class="content-container">
+             <article class="content">
+
+                    <h1>Практические задания на JavaScript</h1>
+
+                    <button onclick="areAnagrams()">Проверка анаграмм</button>
+                    <button onclick="removeVowels()">Удалить гласные</button>
+
+                    <script>
+                        let randomArray = [];
+
+                        function areAnagrams() {
+                            const str1 = prompt("Введите первую строку:");
+                            const str2 = prompt("Введите вторую строку:");
+                            const sortedStr1 = str1.split("").sort().join("");
+                            const sortedStr2 = str2.split("").sort().join("");
+                            alert(`Анаграммы: ${sortedStr1 === sortedStr2}`);
+                        }
+
+                        function removeVowels() {
+                            const input = prompt("Введите строку:");
+                            const consonants = input.split("").filter(char => !'aeiouAEIOUуУеЕыЫаАоОэЭяЯиИюЮ'.includes(
+                                char)).join("");
+                            alert(`Строка без гласных: ${consonants}`);
+                        }
+                    </script>
+                </article>
+
+                <aside class="links">
+                    <a href="https://static.kinoafisha.info/k/series_shots/1920x1080/upload/series/frames/8/3/9/10938/b2a323ceac8a7abfa042b0cf1cc64df9.jpg">Зачем? </a>
+                    <a href="https://chatgpt.com">Почему?</a>
+                    <a href="#">Арбуз?</a>
+                 </aside>
+            </section>
+
+        
+
+            </div>
+            <foot>
+                <p>Разработчик: Важаная Яна</p>
+                <p>Дата документа: 52 сентября 2024</p>
+            </foot>
+            </div>
+    </div>
+   
+</body>
+
+</html>

@@ -1,0 +1,11 @@
+C:\lw2c\ОООПиП\lab4\WordPermutations\WordPermutations.Logic\bin\Debug\net8.0\WordPermutations.Logic.deps.json
+C:\lw2c\ОООПиП\lab4\WordPermutations\WordPermutations.Logic\bin\Debug\net8.0\WordPermutations.Logic.dll
+C:\lw2c\ОООПиП\lab4\WordPermutations\WordPermutations.Logic\bin\Debug\net8.0\WordPermutations.Logic.pdb
+C:\lw2c\ОООПиП\lab4\WordPermutations\WordPermutations.Logic\obj\Debug\net8.0\WordPermutations.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\lw2c\ОООПиП\lab4\WordPermutations\WordPermutations.Logic\obj\Debug\net8.0\WordPermutations.Logic.AssemblyInfoInputs.cache
+C:\lw2c\ОООПиП\lab4\WordPermutations\WordPermutations.Logic\obj\Debug\net8.0\WordPermutations.Logic.AssemblyInfo.cs
+C:\lw2c\ОООПиП\lab4\WordPermutations\WordPermutations.Logic\obj\Debug\net8.0\WordPermutations.Logic.csproj.CoreCompileInputs.cache
+C:\lw2c\ОООПиП\lab4\WordPermutations\WordPermutations.Logic\obj\Debug\net8.0\WordPermutations.Logic.dll
+C:\lw2c\ОООПиП\lab4\WordPermutations\WordPermutations.Logic\obj\Debug\net8.0\refint\WordPermutations.Logic.dll
+C:\lw2c\ОООПиП\lab4\WordPermutations\WordPermutations.Logic\obj\Debug\net8.0\WordPermutations.Logic.pdb
+C:\lw2c\ОООПиП\lab4\WordPermutations\WordPermutations.Logic\obj\Debug\net8.0\ref\WordPermutations.Logic.dll

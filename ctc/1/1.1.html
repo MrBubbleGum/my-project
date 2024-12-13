@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Макет с CSS Grid на полный экран</title>
+    <style>
+        html, body {
+            height: 100%;
+            margin: 0;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        /* Основной контейнер с сеткой */
+        .grid-container {
+            display: grid;
+            grid-template-columns: 20% 80%; /* Логотип и навигация слева, контент справа */
+            grid-template-rows: 10% 1fr; /* Логотип и заголовок сверху, основной контент под ними */
+            height: 100vh; /* Занимает всю высоту экрана */
+            border-top: 5px solid #000000;
+            border-bottom: 10px solid #000000;
+        }
+
+        /* Логотип */
+        .logo {
+            background-image: url(1.jpg);
+            text-align: center;
+            border-right: 3px dashed #000000;
+            border-bottom: 5px solid #000000;
+            grid-column: 1 / 2;
+            grid-row: 1 / 2;
+            
+        }
+
+        /* Навигация */
+        nav {
+            background-color: #ffffff;
+            grid-column: 1 / 2;
+            grid-row: 2 / 3; /* Навигация под логотипом */
+            height: 100%;
+            
+            border-right: 5px solid #000000;
+        }
+
+        /* Заголовок */
+        header {
+            background-color: #ffffff;
+            text-align: center;
+            grid-column: 2 / 3;
+            grid-row: 1 / 2;
+            
+            border-bottom: 5px solid #000000;
+        }
+
+        /* Контейнер для контента */
+        .content-container {
+            display: grid;
+            
+            grid-template-columns: 3fr 1fr; /* Основной контент и боковая панель */
+            grid-column: 2 / 3;
+            grid-row: 2 / 3; /* Контент под заголовком */
+            height: 100%; /* Заполняет оставшееся пространство */
+            
+        }
+
+        /* Основной контент */
+        .content {
+            background-color: #ffffff;
+
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Боковая панель */
+        .links {
+            
+            border-left: 5px solid #000000;
+            display: grid;
+            grid-template-rows: repeat(3, 1fr); /* Поделить на 3 равные строки */
+            background-color: #a4dfa6;
+        }
+
+        .links a {
+            display: block;
+            text-decoration: none;
+            color: #333;
+            background-color: #a4dfa6;
+            border-bottom: 3px dashed #000000;
+            border-right: 3px dashed #000000;
+            border-radius: 4px;
+        }
+
+        .foot {
+         
+            grid-column: 1 / 3;
+            grid-row: 3 / 4;
+            background-color: #333;
+            color: #1d1d1d;
+            text-align: center;
+    
+        }
+     
+
+    </style>
+</head>
+<body>
+
+    <div class="grid-container">
+
+        <!-- Логотип -->
+        <div class="logo">
+            
+        </div>
+
+        <!-- Заголовок -->
+        <header>
+            <h2>Телеканал СТС представляет
+            </h2>
+        </header>
+
+        <!-- Навигация -->
+        <nav>
+            <h3>Навигация</h3>
+            <ul>
+                    <li><a href="C:\Users\User\Desktop\kurs2\ctc\1\1.1.html">Лабораторная работа № 1</a></li>
+                    <li><a href="222.html">Лабораторная работа № 2</a></li>
+                    <li><a href="333.html">Лабораторная работа № 3</a></li>
+                    <li><a href="444.html">Лабораторная работа № 4</a></li>
+            </ul>
+        </nav>
+
+        <!-- Контейнер с контентом -->
+        <section class="content-container">
+            <!-- Основной текст -->
+            <article class="content">
+                <p>Типа очень умный и информативный текст по теме.</p>
+            </article>
+
+            <!-- Боковая панель -->
+            <aside class="links">
+                <a href="https://static.kinoafisha.info/k/series_shots/1920x1080/upload/series/frames/8/3/9/10938/b2a323ceac8a7abfa042b0cf1cc64df9.jpg">Зачем? </a>
+                <a href="https://chatgpt.com">Почему?</a>
+                <a href="#">Арбуз?</a>
+            </aside>
+        </section>
+        <div class="foot">
+            <p>Важная Яна Ивановна</p>
+        </div>
+
+    </div>
+
+</body>
+</html>

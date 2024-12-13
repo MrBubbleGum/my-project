@@ -1,0 +1,29 @@
+ctry,fh09,polity09,gini,fparl08,mena,lati,cari,east,sovi,afri,corr0509,corr_round,fh_status
+American Samoa,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.44,0.44,Unknown
+Aruba,,,,51.21,0.0,0.0,1.0,0.0,0.0,0.0,1.26,1.26,Unknown
+Bermuda,,,,,0.0,0.0,1.0,0.0,0.0,0.0,1.31,1.31,Unknown
+Cayman Islands,,,,,0.0,0.0,1.0,0.0,0.0,0.0,1.16,1.16,Unknown
+Channel Islands,,,,51.53,0.0,0.0,0.0,0.0,0.0,0.0,,,Unknown
+Faeroe Islands,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,,Unknown
+French Polynesia,,,,48.27,0.0,0.0,0.0,0.0,0.0,0.0,,,Unknown
+Gibraltar,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,,Unknown
+Greenland,,,,,0.0,0.0,0.0,0.0,0.0,0.0,1.16,1.16,Unknown
+Guam,,,,46.6,0.0,0.0,0.0,0.0,0.0,0.0,0.83,0.83,Unknown
+"Hong Kong SAR, China",,,43.4,49.68,0.0,0.0,0.0,1.0,0.0,0.0,1.87,1.87,Unknown
+Isle of Man,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,,Unknown
+"Macao SAR, China",,,,50.5,0.0,0.0,0.0,1.0,0.0,0.0,0.34,0.34,Unknown
+Mayotte,,,,48.43,0.0,0.0,0.0,0.0,0.0,1.0,,,Unknown
+Netherlands Antilles,,,,51.79,0.0,0.0,1.0,0.0,0.0,0.0,1.21,1.21,Unknown
+New Caledonia,,,,48.54,0.0,0.0,0.0,0.0,0.0,0.0,-1.03,-1.03,Unknown
+Northern Mariana Islands,,,,,0.0,0.0,0.0,0.0,0.0,0.0,,,Unknown
+Puerto Rico,,,,51.38,0.0,0.0,0.0,0.0,0.0,0.0,0.67,0.67,Unknown
+Timor-Leste,,7.0,31.9,48.99,0.0,0.0,0.0,1.0,0.0,0.0,-0.9,-0.9,Unknown
+Turks and Caicos Islands,,,,,0.0,0.0,1.0,0.0,0.0,0.0,,,Unknown
+Virgin Islands (U.S.),,,,51.45,0.0,0.0,0.0,0.0,0.0,0.0,0.83,0.83,Unknown
+West Bank and Gaza,,,,48.79,0.0,0.0,0.0,0.0,0.0,0.0,-0.91,-0.91,Unknown
+,,,,,,,,,,,,,Unknown
+Count (non-blank cells),191.0,159.0,146.0,191.0,213.0,213.0,213.0,213.0,213.0,213.0,203.0,203.0,Unknown
+,,,,,,,,,,,,,Unknown
+Mean of 19 MENA countries,5.2,-3.3,38.4,46.81,,,,,,,-0.1,-0.1,Unknown
+Mean of 20 LATI countries,2.9,6.7,52.2,50.08,,,,,,,-0.33,-0.33,Unknown
+Median of 20 LATI countries,2.8,8.0,52.3,50.0,,,,,,,-0.37,-0.37,Unknown

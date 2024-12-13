@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CarNumberExtractorConsoleApp/1.0.0": {
+        "dependencies": {
+          "CarNumberExtractorLib": "1.0.0"
+        },
+        "runtime": {
+          "CarNumberExtractorConsoleApp.dll": {}
+        }
+      },
+      "CarNumberExtractorLib/1.0.0": {
+        "runtime": {
+          "CarNumberExtractorLib.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CarNumberExtractorConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CarNumberExtractorLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

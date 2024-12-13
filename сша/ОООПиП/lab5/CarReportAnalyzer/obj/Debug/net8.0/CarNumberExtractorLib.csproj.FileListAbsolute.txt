@@ -1,0 +1,11 @@
+C:\lw2c\ОООПиП\lab5\CarReportAnalyzer\bin\Debug\net8.0\CarNumberExtractorLib.deps.json
+C:\lw2c\ОООПиП\lab5\CarReportAnalyzer\bin\Debug\net8.0\CarNumberExtractorLib.dll
+C:\lw2c\ОООПиП\lab5\CarReportAnalyzer\bin\Debug\net8.0\CarNumberExtractorLib.pdb
+C:\lw2c\ОООПиП\lab5\CarReportAnalyzer\obj\Debug\net8.0\CarNumberExtractorLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\lw2c\ОООПиП\lab5\CarReportAnalyzer\obj\Debug\net8.0\CarNumberExtractorLib.AssemblyInfoInputs.cache
+C:\lw2c\ОООПиП\lab5\CarReportAnalyzer\obj\Debug\net8.0\CarNumberExtractorLib.AssemblyInfo.cs
+C:\lw2c\ОООПиП\lab5\CarReportAnalyzer\obj\Debug\net8.0\CarNumberExtractorLib.csproj.CoreCompileInputs.cache
+C:\lw2c\ОООПиП\lab5\CarReportAnalyzer\obj\Debug\net8.0\CarNumberExtractorLib.dll
+C:\lw2c\ОООПиП\lab5\CarReportAnalyzer\obj\Debug\net8.0\refint\CarNumberExtractorLib.dll
+C:\lw2c\ОООПиП\lab5\CarReportAnalyzer\obj\Debug\net8.0\CarNumberExtractorLib.pdb
+C:\lw2c\ОООПиП\lab5\CarReportAnalyzer\obj\Debug\net8.0\ref\CarNumberExtractorLib.dll

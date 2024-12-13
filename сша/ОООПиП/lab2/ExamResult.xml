@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ExamResultsLibrary</name>
+    </assembly>
+    <members>
+        <member name="T:ExamResultsLibrary.ExamResult">
+            <summary>
+            Класс для хранения информации о результатах сдачи экзамена.
+            </summary>
+        </member>
+        <member name="M:ExamResultsLibrary.ExamResult.op_Addition(ExamResultsLibrary.ExamResult,ExamResultsLibrary.ExamResult)">
+            <summary>
+            Перегрузка оператора сложения для суммирования оценок двух студентов.
+            </summary>
+        </member>
+        <member name="M:ExamResultsLibrary.ExamResult.op_Subtraction(ExamResultsLibrary.ExamResult,ExamResultsLibrary.ExamResult)">
+            <summary>
+            Перегрузка оператора вычитания для нахождения разности оценок двух студентов.
+            </summary>
+        </member>
+        <member name="M:Program.Main">
+            <summary>
+            Основной класс программы для ввода и обработки результатов экзаменов.
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Сайт</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="grid-container">
+         <div class="logo">
+            
+         </div>
+
+         <header>
+             <h2>Телеканал СТС представляет
+             </h2>
+         </header>
+
+        <nav>
+            <h2>Панель навигации</h2>
+            <ul>
+                <li><a href="C:\Users\User\Desktop\kurs2\ctc\1\1.1.html">Лабораторная работа № 1</a></li>
+                <li><a href="222.html">Лабораторная работа № 2</a></li>
+                <li><a href="333.html">Лабораторная работа № 3</a></li>
+                <li><a href="444.html">Лабораторная работа № 4</a></li>
+            </ul>
+        </nav>
+
+        <section class="content-container">
+            <article class="content">
+            <button onclick="task1()">Выполнить задачу 1.1</button>
+            <button onclick="task2()">Выполнить задачу 1.2</button>
+            <button onclick="task3()">Выполнить задачу 1.3</button>
+            <button onclick="task4()">Выполнить задачу 1.4</button>
+
+            <p id="inputPrompt" style="display: none;">Введите числа для расчета средних значений (через запятую):</p>
+            <input type="text" id="inputValues" placeholder="1, 2, 3, 4, 5" style="display: none;" />
+            
+            <p id="result"></p>
+
+            <script>
+                function task1() {
+                    const randomString = 'abcdefghij';
+
+                    const charCodes = Array.from(randomString)
+                        .map(char => char.toUpperCase().charCodeAt());
+
+                    const nonDivisibleBy5 = charCodes.filter(code => code % 5 !== 0);
+                    const sumRemainders = nonDivisibleBy5.reduce((acc, curr) => acc + (curr % 5), 0);
+
+                    document.getElementById("result").innerText = `Сумма остатков деления на 5: ${sumRemainders}`;
+                }
+
+                function task2() {
+                    const s = 500;
+                    const p = 10;
+                    const randomNumbers = Array.from({
+                        length: 1000
+                    }, () => Math.floor(Math.random() * (s + s * p / 100 * 2) - s * p / 100));
+
+                    const sortedNumbers = randomNumbers.sort((a, b) => b % 10 - a % 10);
+
+                    const output = sortedNumbers.reduce((acc, number, index) => {
+                        return acc + number + (index % 40 === 39 ? '\n' : ' ');
+                    }, '');
+
+                    document.getElementById("result").innerText = `Отсортированный массив чисел:\n${output}`;
+                }
+
+                function task3() {
+                    // Показываем элементы для ввода значений
+                    document.getElementById("inputPrompt").style.display = "block";
+                    document.getElementById("inputValues").style.display = "inline";
+
+                    // Обработчик нажатия клавиши "Enter" для ввода значений
+                    document.getElementById("inputValues").addEventListener("keydown", function(event) {
+                        if (event.key === "Enter") {
+                            calculateAndDisplayAverage();
+                        }
+                    });
+
+                    // Обработаем нажатие кнопки
+                    calculateAndDisplayAverage = function() {
+                        function calculateAverage(...args) {
+                            const sum = args.reduce((acc, val) => acc + val, 0);
+                            const arithmeticMean = sum / args.length;
+
+                            const harmonicMean = args.length / args.reduce((acc, val) => acc + 1 / val, 0);
+
+                            return {
+                                arithmeticMean,
+                                harmonicMean
+                            };
+                        }
+
+                        const input = document.getElementById("inputValues").value;
+                        const numbers = input.split(',').map(num => parseFloat(num.trim())).filter(num => !isNaN(num));
+
+                        if (numbers.length === 0) {
+                            document.getElementById("result").innerText = "Пожалуйста, введите хотя бы одно число.";
+                            return;
+                        }
+
+                        const result = calculateAverage(...numbers);
+                        document.getElementById("result").innerText =
+                            `Среднее арифметическое: ${result.arithmeticMean}, Среднее гармоническое: ${result.harmonicMean}`;
+                    };
+                }
+
+                function task4() {
+                    const names = ['Alice', 'Bob', 'Charlie', 'David', 'Eve'];
+                    function Person(name, age) {
+                        this.name = name;
+                        this.age = age;
+                        this.introduce = function () {
+                            return `Меня зовут ${this.name}, мне ${this.age} лет.<br>`;
+                        };
+                    }
+
+                    const people = Array.from({
+                        length: 20
+                    }, () => {
+                        const name = names[Math.floor(Math.random() * names.length)];
+                        const age = Math.floor(Math.random() * 50) + 20;
+                        return new Person(name, age);
+                    });
+
+                    document.getElementById("result").innerHTML = '';
+
+                    people.forEach(person => {
+                        document.getElementById("result").insertAdjacentHTML('beforeend', person.introduce());
+                    });
+                }
+            </script>
+        </article>
+
+                <aside class="links">
+                    <a href="https://static.kinoafisha.info/k/series_shots/1920x1080/upload/series/frames/8/3/9/10938/b2a323ceac8a7abfa042b0cf1cc64df9.jpg">Зачем? </a>
+                    <a href="https://chatgpt.com">Почему?</a>
+                    <a href="#">Арбуз?</a>
+                 </aside>
+            </section>
+
+        
+
+            </div>
+            <foot>
+                <p>Разработчик: Важаная Яна</p>
+                <p>Дата документа: 52 сентября 2024</p>
+            </foot>
+            </div>
+    </div>
+   
+</body>
+
+</html>

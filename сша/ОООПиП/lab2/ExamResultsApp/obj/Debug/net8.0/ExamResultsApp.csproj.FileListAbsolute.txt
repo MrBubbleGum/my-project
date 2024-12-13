@@ -1,0 +1,14 @@
+C:\lw2c\ОООПиП\lab2\ExamResultsApp\bin\Debug\net8.0\ExamResultsApp.exe
+C:\lw2c\ОООПиП\lab2\ExamResultsApp\bin\Debug\net8.0\ExamResultsApp.deps.json
+C:\lw2c\ОООПиП\lab2\ExamResultsApp\bin\Debug\net8.0\ExamResultsApp.runtimeconfig.json
+C:\lw2c\ОООПиП\lab2\ExamResultsApp\bin\Debug\net8.0\ExamResultsApp.dll
+C:\lw2c\ОООПиП\lab2\ExamResultsApp\bin\Debug\net8.0\ExamResultsApp.pdb
+C:\lw2c\ОООПиП\lab2\ExamResultsApp\obj\Debug\net8.0\ExamResultsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\lw2c\ОООПиП\lab2\ExamResultsApp\obj\Debug\net8.0\ExamResultsApp.AssemblyInfoInputs.cache
+C:\lw2c\ОООПиП\lab2\ExamResultsApp\obj\Debug\net8.0\ExamResultsApp.AssemblyInfo.cs
+C:\lw2c\ОООПиП\lab2\ExamResultsApp\obj\Debug\net8.0\ExamResultsApp.csproj.CoreCompileInputs.cache
+C:\lw2c\ОООПиП\lab2\ExamResultsApp\obj\Debug\net8.0\ExamResultsApp.dll
+C:\lw2c\ОООПиП\lab2\ExamResultsApp\obj\Debug\net8.0\refint\ExamResultsApp.dll
+C:\lw2c\ОООПиП\lab2\ExamResultsApp\obj\Debug\net8.0\ExamResultsApp.pdb
+C:\lw2c\ОООПиП\lab2\ExamResultsApp\obj\Debug\net8.0\ExamResultsApp.genruntimeconfig.cache
+C:\lw2c\ОООПиП\lab2\ExamResultsApp\obj\Debug\net8.0\ref\ExamResultsApp.dll

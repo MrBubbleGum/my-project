@@ -1,0 +1,5 @@
+C:\lw2c\ОООПиП\lab2\ExamResultsTests\obj\Release\net8.0\win-x64\ExamResultsTests.csproj.AssemblyReference.cache
+C:\lw2c\ОООПиП\lab2\ExamResultsTests\obj\Release\net8.0\win-x64\ExamResultsTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\lw2c\ОООПиП\lab2\ExamResultsTests\obj\Release\net8.0\win-x64\ExamResultsTests.AssemblyInfoInputs.cache
+C:\lw2c\ОООПиП\lab2\ExamResultsTests\obj\Release\net8.0\win-x64\ExamResultsTests.AssemblyInfo.cs
+C:\lw2c\ОООПиП\lab2\ExamResultsTests\obj\Release\net8.0\win-x64\ExamResultsTests.csproj.CoreCompileInputs.cache
