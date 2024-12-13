@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\lw2c\\\u041E\u041E\u041E\u041F\u0438\u041F\\lab7\\TireShopSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FF7CBAC-01F2-4F7B-A2DA-D0C47309F242}|TireShopTests\\TireShopTests.csproj|c:\\lw2c\\\u043E\u043E\u043E\u043F\u0438\u043F\\lab7\\tireshopsolution\\tireshoptests\\workmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FF7CBAC-01F2-4F7B-A2DA-D0C47309F242}|TireShopTests\\TireShopTests.csproj|solutionrelative:tireshoptests\\workmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DD7812-5006-4876-8B93-66C9EB12DC16}|TireShopLibrary\\TireShopLibrary.csproj|c:\\lw2c\\\u043E\u043E\u043E\u043F\u0438\u043F\\lab7\\tireshopsolution\\tireshoplibrary\\workmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08DD7812-5006-4876-8B93-66C9EB12DC16}|TireShopLibrary\\TireShopLibrary.csproj|solutionrelative:tireshoplibrary\\workmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C072DB1D-9BCF-47E2-9D6B-C80D385AE6E2}|TireShopApp\\TireShopApp.csproj|c:\\lw2c\\\u043E\u043E\u043E\u043F\u0438\u043F\\lab7\\tireshopsolution\\tireshopapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C072DB1D-9BCF-47E2-9D6B-C80D385AE6E2}|TireShopApp\\TireShopApp.csproj|solutionrelative:tireshopapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C072DB1D-9BCF-47E2-9D6B-C80D385AE6E2}|TireShopApp\\TireShopApp.csproj|c:\\lw2c\\\u043E\u043E\u043E\u043F\u0438\u043F\\lab7\\tireshopsolution\\tireshopapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C072DB1D-9BCF-47E2-9D6B-C80D385AE6E2}|TireShopApp\\TireShopApp.csproj|solutionrelative:tireshopapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C072DB1D-9BCF-47E2-9D6B-C80D385AE6E2}|TireShopApp\\TireShopApp.csproj|c:\\lw2c\\\u043E\u043E\u043E\u043F\u0438\u043F\\lab7\\tireshopsolution\\tireshopapp\\tireshopapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C072DB1D-9BCF-47E2-9D6B-C80D385AE6E2}|TireShopApp\\TireShopApp.csproj|solutionrelative:tireshopapp\\tireshopapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DD7812-5006-4876-8B93-66C9EB12DC16}|TireShopLibrary\\TireShopLibrary.csproj|c:\\lw2c\\\u043E\u043E\u043E\u043F\u0438\u043F\\lab7\\tireshopsolution\\tireshoplibrary\\wheelbalancing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08DD7812-5006-4876-8B93-66C9EB12DC16}|TireShopLibrary\\TireShopLibrary.csproj|solutionrelative:tireshoplibrary\\wheelbalancing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DD7812-5006-4876-8B93-66C9EB12DC16}|TireShopLibrary\\TireShopLibrary.csproj|c:\\lw2c\\\u043E\u043E\u043E\u043F\u0438\u043F\\lab7\\tireshopsolution\\tireshoplibrary\\puncturerepair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08DD7812-5006-4876-8B93-66C9EB12DC16}|TireShopLibrary\\TireShopLibrary.csproj|solutionrelative:tireshoplibrary\\puncturerepair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DD7812-5006-4876-8B93-66C9EB12DC16}|TireShopLibrary\\TireShopLibrary.csproj|c:\\lw2c\\\u043E\u043E\u043E\u043F\u0438\u043F\\lab7\\tireshopsolution\\tireshoplibrary\\tirereplacement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08DD7812-5006-4876-8B93-66C9EB12DC16}|TireShopLibrary\\TireShopLibrary.csproj|solutionrelative:tireshoplibrary\\tirereplacement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DD7812-5006-4876-8B93-66C9EB12DC16}|TireShopLibrary\\TireShopLibrary.csproj|c:\\lw2c\\\u043E\u043E\u043E\u043F\u0438\u043F\\lab7\\tireshopsolution\\tireshoplibrary\\work.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08DD7812-5006-4876-8B93-66C9EB12DC16}|TireShopLibrary\\TireShopLibrary.csproj|solutionrelative:tireshoplibrary\\work.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TireShopApp.csproj",
+              "DocumentMoniker": "C:\\lw2c\\\u041E\u041E\u041E\u041F\u0438\u041F\\lab7\\TireShopSolution\\TireShopApp\\TireShopApp.csproj",
+              "RelativeDocumentMoniker": "TireShopApp\\TireShopApp.csproj",
+              "ToolTip": "C:\\lw2c\\\u041E\u041E\u041E\u041F\u0438\u041F\\lab7\\TireShopSolution\\TireShopApp\\TireShopApp.csproj",
+              "RelativeToolTip": "TireShopApp\\TireShopApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-09T13:15:42.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorkManager.cs",
+              "DocumentMoniker": "C:\\lw2c\\\u041E\u041E\u041E\u041F\u0438\u041F\\lab7\\TireShopSolution\\TireShopLibrary\\WorkManager.cs",
+              "RelativeDocumentMoniker": "TireShopLibrary\\WorkManager.cs",
+              "ToolTip": "C:\\lw2c\\\u041E\u041E\u041E\u041F\u0438\u041F\\lab7\\TireShopSolution\\TireShopLibrary\\WorkManager.cs",
+              "RelativeToolTip": "TireShopLibrary\\WorkManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:13:46.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WheelBalancing.cs",
+              "DocumentMoniker": "C:\\lw2c\\\u041E\u041E\u041E\u041F\u0438\u041F\\lab7\\TireShopSolution\\TireShopLibrary\\WheelBalancing.cs",
+              "RelativeDocumentMoniker": "TireShopLibrary\\WheelBalancing.cs",
+              "ToolTip": "C:\\lw2c\\\u041E\u041E\u041E\u041F\u0438\u041F\\lab7\\TireShopSolution\\TireShopLibrary\\WheelBalancing.cs",
+              "RelativeToolTip": "TireShopLibrary\\WheelBalancing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T12:50:26.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PunctureRepair.cs",
+              "DocumentMoniker": "C:\\lw2c\\\u041E\u041E\u041E\u041F\u0438\u041F\\lab7\\TireShopSolution\\TireShopLibrary\\PunctureRepair.cs",
+              "RelativeDocumentMoniker": "TireShopLibrary\\PunctureRepair.cs",
+              "ToolTip": "C:\\lw2c\\\u041E\u041E\u041E\u041F\u0438\u041F\\lab7\\TireShopSolution\\TireShopLibrary\\PunctureRepair.cs",
+              "RelativeToolTip": "TireShopLibrary\\PunctureRepair.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T12:50:01.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TireReplacement.cs",
+              "DocumentMoniker": "C:\\lw2c\\\u041E\u041E\u041E\u041F\u0438\u041F\\lab7\\TireShopSolution\\TireShopLibrary\\TireReplacement.cs",
+              "RelativeDocumentMoniker": "TireShopLibrary\\TireReplacement.cs",
+              "ToolTip": "C:\\lw2c\\\u041E\u041E\u041E\u041F\u0438\u041F\\lab7\\TireShopSolution\\TireShopLibrary\\TireReplacement.cs",
+              "RelativeToolTip": "TireShopLibrary\\TireReplacement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T12:49:41.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\lw2c\\\u041E\u041E\u041E\u041F\u0438\u041F\\lab7\\TireShopSolution\\TireShopApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TireShopApp\\MainWindow.xaml",
+              "ToolTip": "C:\\lw2c\\\u041E\u041E\u041E\u041F\u0438\u041F\\lab7\\TireShopSolution\\TireShopApp\\MainWindow.xaml",
+              "RelativeToolTip": "TireShopApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-09T12:48:11.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\lw2c\\\u041E\u041E\u041E\u041F\u0438\u041F\\lab7\\TireShopSolution\\TireShopApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TireShopApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\lw2c\\\u041E\u041E\u041E\u041F\u0438\u041F\\lab7\\TireShopSolution\\TireShopApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "TireShopApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T12:48:11.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WorkManagerTests.cs",
+              "DocumentMoniker": "C:\\lw2c\\\u041E\u041E\u041E\u041F\u0438\u041F\\lab7\\TireShopSolution\\TireShopTests\\WorkManagerTests.cs",
+              "RelativeDocumentMoniker": "TireShopTests\\WorkManagerTests.cs",
+              "ToolTip": "C:\\lw2c\\\u041E\u041E\u041E\u041F\u0438\u041F\\lab7\\TireShopSolution\\TireShopTests\\WorkManagerTests.cs",
+              "RelativeToolTip": "TireShopTests\\WorkManagerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T12:47:23.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Work.cs",
+              "DocumentMoniker": "C:\\lw2c\\\u041E\u041E\u041E\u041F\u0438\u041F\\lab7\\TireShopSolution\\TireShopLibrary\\Work.cs",
+              "RelativeDocumentMoniker": "TireShopLibrary\\Work.cs",
+              "ToolTip": "C:\\lw2c\\\u041E\u041E\u041E\u041F\u0438\u041F\\lab7\\TireShopSolution\\TireShopLibrary\\Work.cs",
+              "RelativeToolTip": "TireShopLibrary\\Work.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T12:46:36.148Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

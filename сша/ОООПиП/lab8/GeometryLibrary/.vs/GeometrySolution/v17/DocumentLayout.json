@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\lw2c\\lab8\\GeometryLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C70BBBC4-E8A8-460B-8B2D-C485831EF337}|GeometryApp\\GeometryApp.csproj|c:\\lw2c\\lab8\\geometrylibrary\\geometryapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70BBBC4-E8A8-460B-8B2D-C485831EF337}|GeometryApp\\GeometryApp.csproj|solutionrelative:geometryapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70BBBC4-E8A8-460B-8B2D-C485831EF337}|GeometryApp\\GeometryApp.csproj|c:\\lw2c\\lab8\\geometrylibrary\\geometryapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C70BBBC4-E8A8-460B-8B2D-C485831EF337}|GeometryApp\\GeometryApp.csproj|solutionrelative:geometryapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0063A044-7D2D-49D6-87DB-3A3262FF8BC0}|GeometryLibrary\\GeometryLibrary.csproj|c:\\lw2c\\lab8\\geometrylibrary\\geometrylibrary\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0063A044-7D2D-49D6-87DB-3A3262FF8BC0}|GeometryLibrary\\GeometryLibrary.csproj|solutionrelative:geometrylibrary\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0063A044-7D2D-49D6-87DB-3A3262FF8BC0}|GeometryLibrary\\GeometryLibrary.csproj|c:\\lw2c\\lab8\\geometrylibrary\\geometrylibrary\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0063A044-7D2D-49D6-87DB-3A3262FF8BC0}|GeometryLibrary\\GeometryLibrary.csproj|solutionrelative:geometrylibrary\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0063A044-7D2D-49D6-87DB-3A3262FF8BC0}|GeometryLibrary\\GeometryLibrary.csproj|c:\\lw2c\\lab8\\geometrylibrary\\geometrylibrary\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0063A044-7D2D-49D6-87DB-3A3262FF8BC0}|GeometryLibrary\\GeometryLibrary.csproj|solutionrelative:geometrylibrary\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0063A044-7D2D-49D6-87DB-3A3262FF8BC0}|GeometryLibrary\\GeometryLibrary.csproj|c:\\lw2c\\lab8\\geometrylibrary\\geometrylibrary\\polygon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0063A044-7D2D-49D6-87DB-3A3262FF8BC0}|GeometryLibrary\\GeometryLibrary.csproj|solutionrelative:geometrylibrary\\polygon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0063A044-7D2D-49D6-87DB-3A3262FF8BC0}|GeometryLibrary\\GeometryLibrary.csproj|c:\\lw2c\\lab8\\geometrylibrary\\geometrylibrary\\geometricfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0063A044-7D2D-49D6-87DB-3A3262FF8BC0}|GeometryLibrary\\GeometryLibrary.csproj|solutionrelative:geometrylibrary\\geometricfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A31A596-BABD-427E-80D3-ED17D1558D6F}|Tests\\Tests.csproj|c:\\lw2c\\lab8\\geometrylibrary\\tests\\geometrytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A31A596-BABD-427E-80D3-ED17D1558D6F}|Tests\\Tests.csproj|solutionrelative:tests\\geometrytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\lw2c\\lab8\\GeometryLibrary\\GeometryLibrary\\Triangle.cs",
+              "RelativeDocumentMoniker": "GeometryLibrary\\Triangle.cs",
+              "ToolTip": "C:\\lw2c\\lab8\\GeometryLibrary\\GeometryLibrary\\Triangle.cs",
+              "RelativeToolTip": "GeometryLibrary\\Triangle.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T21:00:10.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\lw2c\\lab8\\GeometryLibrary\\GeometryApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "GeometryApp\\MainWindow.xaml",
+              "ToolTip": "C:\\lw2c\\lab8\\GeometryLibrary\\GeometryApp\\MainWindow.xaml",
+              "RelativeToolTip": "GeometryApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-10T20:48:26.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\lw2c\\lab8\\GeometryLibrary\\GeometryApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "GeometryApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\lw2c\\lab8\\GeometryLibrary\\GeometryApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "GeometryApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAA7wGIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T20:48:26.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GeometryTests.cs",
+              "DocumentMoniker": "C:\\lw2c\\lab8\\GeometryLibrary\\Tests\\GeometryTests.cs",
+              "RelativeDocumentMoniker": "Tests\\GeometryTests.cs",
+              "ToolTip": "C:\\lw2c\\lab8\\GeometryLibrary\\Tests\\GeometryTests.cs",
+              "RelativeToolTip": "Tests\\GeometryTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T20:46:52.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\lw2c\\lab8\\GeometryLibrary\\GeometryLibrary\\Circle.cs",
+              "RelativeDocumentMoniker": "GeometryLibrary\\Circle.cs",
+              "ToolTip": "C:\\lw2c\\lab8\\GeometryLibrary\\GeometryLibrary\\Circle.cs",
+              "RelativeToolTip": "GeometryLibrary\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T20:45:10.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\lw2c\\lab8\\GeometryLibrary\\GeometryLibrary\\Rectangle.cs",
+              "RelativeDocumentMoniker": "GeometryLibrary\\Rectangle.cs",
+              "ToolTip": "C:\\lw2c\\lab8\\GeometryLibrary\\GeometryLibrary\\Rectangle.cs",
+              "RelativeToolTip": "GeometryLibrary\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T20:44:15.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Polygon.cs",
+              "DocumentMoniker": "C:\\lw2c\\lab8\\GeometryLibrary\\GeometryLibrary\\Polygon.cs",
+              "RelativeDocumentMoniker": "GeometryLibrary\\Polygon.cs",
+              "ToolTip": "C:\\lw2c\\lab8\\GeometryLibrary\\GeometryLibrary\\Polygon.cs",
+              "RelativeToolTip": "GeometryLibrary\\Polygon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T20:43:20.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GeometricFigure.cs",
+              "DocumentMoniker": "C:\\lw2c\\lab8\\GeometryLibrary\\GeometryLibrary\\GeometricFigure.cs",
+              "RelativeDocumentMoniker": "GeometryLibrary\\GeometricFigure.cs",
+              "ToolTip": "C:\\lw2c\\lab8\\GeometryLibrary\\GeometryLibrary\\GeometricFigure.cs",
+              "RelativeToolTip": "GeometryLibrary\\GeometricFigure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T20:42:26.334Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

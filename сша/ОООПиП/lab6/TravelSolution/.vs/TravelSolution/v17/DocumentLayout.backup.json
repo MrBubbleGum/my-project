@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\lw2c\\\u041E\u041E\u041E\u041F\u0438\u041F\\lab6\\TravelSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9178C0-CF84-4DAD-A889-B063201488D1}|TravelApp\\TravelApp.csproj|c:\\lw2c\\\u043E\u043E\u043E\u043F\u0438\u043F\\lab6\\travelsolution\\travelapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D9178C0-CF84-4DAD-A889-B063201488D1}|TravelApp\\TravelApp.csproj|solutionrelative:travelapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9178C0-CF84-4DAD-A889-B063201488D1}|TravelApp\\TravelApp.csproj|c:\\lw2c\\\u043E\u043E\u043E\u043F\u0438\u043F\\lab6\\travelsolution\\travelapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9178C0-CF84-4DAD-A889-B063201488D1}|TravelApp\\TravelApp.csproj|solutionrelative:travelapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C22337-1637-4B45-B5BB-E426908F6803}|TravelLibrary.Tests\\TravelLibrary.Tests.csproj|c:\\lw2c\\\u043E\u043E\u043E\u043F\u0438\u043F\\lab6\\travelsolution\\travellibrary.tests\\tripmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56C22337-1637-4B45-B5BB-E426908F6803}|TravelLibrary.Tests\\TravelLibrary.Tests.csproj|solutionrelative:travellibrary.tests\\tripmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4938AF66-BD52-4F44-A568-D523B1A45102}|TravelLibrary\\TravelLibrary.csproj|c:\\lw2c\\\u043E\u043E\u043E\u043F\u0438\u043F\\lab6\\travelsolution\\travellibrary\\tripmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4938AF66-BD52-4F44-A568-D523B1A45102}|TravelLibrary\\TravelLibrary.csproj|solutionrelative:travellibrary\\tripmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4938AF66-BD52-4F44-A568-D523B1A45102}|TravelLibrary\\TravelLibrary.csproj|c:\\lw2c\\\u043E\u043E\u043E\u043F\u0438\u043F\\lab6\\travelsolution\\travellibrary\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4938AF66-BD52-4F44-A568-D523B1A45102}|TravelLibrary\\TravelLibrary.csproj|solutionrelative:travellibrary\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4938AF66-BD52-4F44-A568-D523B1A45102}|TravelLibrary\\TravelLibrary.csproj|c:\\lw2c\\\u043E\u043E\u043E\u043F\u0438\u043F\\lab6\\travelsolution\\travellibrary\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4938AF66-BD52-4F44-A568-D523B1A45102}|TravelLibrary\\TravelLibrary.csproj|solutionrelative:travellibrary\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\lw2c\\\u041E\u041E\u041E\u041F\u0438\u041F\\lab6\\TravelSolution\\TravelApp\\Form1.cs",
+              "RelativeDocumentMoniker": "TravelApp\\Form1.cs",
+              "ToolTip": "C:\\lw2c\\\u041E\u041E\u041E\u041F\u0438\u041F\\lab6\\TravelSolution\\TravelApp\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "TravelApp\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T11:33:21.89Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\lw2c\\\u041E\u041E\u041E\u041F\u0438\u041F\\lab6\\TravelSolution\\TravelApp\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "TravelApp\\Form1.Designer.cs",
+              "ToolTip": "C:\\lw2c\\\u041E\u041E\u041E\u041F\u0438\u041F\\lab6\\TravelSolution\\TravelApp\\Form1.Designer.cs",
+              "RelativeToolTip": "TravelApp\\Form1.Designer.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAcwJ0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T10:49:07.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\lw2c\\\u041E\u041E\u041E\u041F\u0438\u041F\\lab6\\TravelSolution\\TravelLibrary\\Enums.cs",
+              "RelativeDocumentMoniker": "TravelLibrary\\Enums.cs",
+              "ToolTip": "C:\\lw2c\\\u041E\u041E\u041E\u041F\u0438\u041F\\lab6\\TravelSolution\\TravelLibrary\\Enums.cs",
+              "RelativeToolTip": "TravelLibrary\\Enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T10:48:02.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TripManagerTests.cs",
+              "DocumentMoniker": "C:\\lw2c\\\u041E\u041E\u041E\u041F\u0438\u041F\\lab6\\TravelSolution\\TravelLibrary.Tests\\TripManagerTests.cs",
+              "RelativeDocumentMoniker": "TravelLibrary.Tests\\TripManagerTests.cs",
+              "ToolTip": "C:\\lw2c\\\u041E\u041E\u041E\u041F\u0438\u041F\\lab6\\TravelSolution\\TravelLibrary.Tests\\TripManagerTests.cs",
+              "RelativeToolTip": "TravelLibrary.Tests\\TripManagerTests.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T10:42:31.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TripManager.cs",
+              "DocumentMoniker": "C:\\lw2c\\\u041E\u041E\u041E\u041F\u0438\u041F\\lab6\\TravelSolution\\TravelLibrary\\TripManager.cs",
+              "RelativeDocumentMoniker": "TravelLibrary\\TripManager.cs",
+              "ToolTip": "C:\\lw2c\\\u041E\u041E\u041E\u041F\u0438\u041F\\lab6\\TravelSolution\\TravelLibrary\\TripManager.cs",
+              "RelativeToolTip": "TravelLibrary\\TripManager.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowEwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T10:40:23.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Trip.cs",
+              "DocumentMoniker": "C:\\lw2c\\\u041E\u041E\u041E\u041F\u0438\u041F\\lab6\\TravelSolution\\TravelLibrary\\Trip.cs",
+              "RelativeDocumentMoniker": "TravelLibrary\\Trip.cs",
+              "ToolTip": "C:\\lw2c\\\u041E\u041E\u041E\u041F\u0438\u041F\\lab6\\TravelSolution\\TravelLibrary\\Trip.cs",
+              "RelativeToolTip": "TravelLibrary\\Trip.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T10:39:31.867Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

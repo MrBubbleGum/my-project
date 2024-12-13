@@ -1,0 +1,12 @@
+C:\lw2c\ОООПиП\lab3\ArraySolution\ArrayLibrary\bin\Debug\net8.0\ArrayLibrary.deps.json
+C:\lw2c\ОООПиП\lab3\ArraySolution\ArrayLibrary\bin\Debug\net8.0\ArrayLibrary.dll
+C:\lw2c\ОООПиП\lab3\ArraySolution\ArrayLibrary\bin\Debug\net8.0\ArrayLibrary.pdb
+C:\lw2c\ОООПиП\lab3\ArraySolution\ArrayLibrary\obj\Debug\net8.0\ArrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\lw2c\ОООПиП\lab3\ArraySolution\ArrayLibrary\obj\Debug\net8.0\ArrayLibrary.AssemblyInfoInputs.cache
+C:\lw2c\ОООПиП\lab3\ArraySolution\ArrayLibrary\obj\Debug\net8.0\ArrayLibrary.AssemblyInfo.cs
+C:\lw2c\ОООПиП\lab3\ArraySolution\ArrayLibrary\obj\Debug\net8.0\ArrayLibrary.csproj.CoreCompileInputs.cache
+C:\lw2c\ОООПиП\lab3\ArraySolution\ArrayLibrary\obj\Debug\net8.0\ArrayLibrary.dll
+C:\lw2c\ОООПиП\lab3\ArraySolution\ArrayLibrary\obj\Debug\net8.0\refint\ArrayLibrary.dll
+C:\lw2c\ОООПиП\lab3\ArraySolution\ArrayLibrary\obj\Debug\net8.0\ArrayLibrary.pdb
+C:\lw2c\ОООПиП\lab3\ArraySolution\ArrayLibrary\obj\Debug\net8.0\ref\ArrayLibrary.dll
+C:\lw2c\ОООПиП\lab3\ArraySolution\ArrayLibrary\bin\Debug\net8.0\ArraySolutionXML.xml

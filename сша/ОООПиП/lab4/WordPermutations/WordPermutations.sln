@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordPermutations.Logic", "WordPermutations.Logic\WordPermutations.Logic.csproj", "{EFAF0FE7-2C50-4F78-A2DE-BB00C566F956}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordPermutations.Tests", "WordPermutations.Tests\WordPermutations.Tests.csproj", "{35D7DA64-4E34-4760-8888-F1682EA43ACA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordPermutationsApp", "WordPermutationsApp\WordPermutationsApp.csproj", "{B7C8C63B-6DF2-4505-9F8B-4879E5AE7B30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFAF0FE7-2C50-4F78-A2DE-BB00C566F956}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFAF0FE7-2C50-4F78-A2DE-BB00C566F956}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFAF0FE7-2C50-4F78-A2DE-BB00C566F956}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFAF0FE7-2C50-4F78-A2DE-BB00C566F956}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35D7DA64-4E34-4760-8888-F1682EA43ACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35D7DA64-4E34-4760-8888-F1682EA43ACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35D7DA64-4E34-4760-8888-F1682EA43ACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35D7DA64-4E34-4760-8888-F1682EA43ACA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7C8C63B-6DF2-4505-9F8B-4879E5AE7B30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7C8C63B-6DF2-4505-9F8B-4879E5AE7B30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7C8C63B-6DF2-4505-9F8B-4879E5AE7B30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7C8C63B-6DF2-4505-9F8B-4879E5AE7B30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AB665F6-EF3B-47F9-BECD-46D6F236C058}
+	EndGlobalSection
+EndGlobal

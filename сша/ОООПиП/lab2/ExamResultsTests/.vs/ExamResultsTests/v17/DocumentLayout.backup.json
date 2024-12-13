@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\lw2c\\\u041E\u041E\u041E\u041F\u0438\u041F\\lab2\\ExamResultsTests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8FC223-85B6-4F44-9E52-514471325E7D}|ExamResultsTests.csproj|c:\\lw2c\\\u043E\u043E\u043E\u043F\u0438\u043F\\lab2\\examresultstests\\exammoduletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8FC223-85B6-4F44-9E52-514471325E7D}|ExamResultsTests.csproj|solutionrelative:exammoduletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8FC223-85B6-4F44-9E52-514471325E7D}|ExamResultsTests.csproj|c:\\lw2c\\\u043E\u043E\u043E\u043F\u0438\u043F\\lab2\\examresultstests\\examresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8FC223-85B6-4F44-9E52-514471325E7D}|ExamResultsTests.csproj|solutionrelative:examresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExamResult.cs",
+              "DocumentMoniker": "C:\\lw2c\\\u041E\u041E\u041E\u041F\u0438\u041F\\lab2\\ExamResultsTests\\ExamResult.cs",
+              "RelativeDocumentMoniker": "ExamResult.cs",
+              "ToolTip": "C:\\lw2c\\\u041E\u041E\u041E\u041F\u0438\u041F\\lab2\\ExamResultsTests\\ExamResult.cs",
+              "RelativeToolTip": "ExamResult.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T12:18:57.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExamModuleTest.cs",
+              "DocumentMoniker": "C:\\lw2c\\\u041E\u041E\u041E\u041F\u0438\u041F\\lab2\\ExamResultsTests\\ExamModuleTest.cs",
+              "RelativeDocumentMoniker": "ExamModuleTest.cs",
+              "ToolTip": "C:\\lw2c\\\u041E\u041E\u041E\u041F\u0438\u041F\\lab2\\ExamResultsTests\\ExamModuleTest.cs",
+              "RelativeToolTip": "ExamModuleTest.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAswJkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T12:06:11.835Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

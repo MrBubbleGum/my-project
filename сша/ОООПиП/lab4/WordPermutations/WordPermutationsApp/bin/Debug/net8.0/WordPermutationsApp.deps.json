@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WordPermutationsApp/1.0.0": {
+        "dependencies": {
+          "WordPermutations.Logic": "1.0.0"
+        },
+        "runtime": {
+          "WordPermutationsApp.dll": {}
+        }
+      },
+      "WordPermutations.Logic/1.0.0": {
+        "runtime": {
+          "WordPermutations.Logic.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WordPermutationsApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WordPermutations.Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

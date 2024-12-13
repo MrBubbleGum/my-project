@@ -1,0 +1,11 @@
+C:\lw2c\ОООПиП\lab7\TireShopSolution\TireShopLibrary\bin\Debug\net8.0\TireShopLibrary.deps.json
+C:\lw2c\ОООПиП\lab7\TireShopSolution\TireShopLibrary\bin\Debug\net8.0\TireShopLibrary.dll
+C:\lw2c\ОООПиП\lab7\TireShopSolution\TireShopLibrary\bin\Debug\net8.0\TireShopLibrary.pdb
+C:\lw2c\ОООПиП\lab7\TireShopSolution\TireShopLibrary\obj\Debug\net8.0\TireShopLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\lw2c\ОООПиП\lab7\TireShopSolution\TireShopLibrary\obj\Debug\net8.0\TireShopLibrary.AssemblyInfoInputs.cache
+C:\lw2c\ОООПиП\lab7\TireShopSolution\TireShopLibrary\obj\Debug\net8.0\TireShopLibrary.AssemblyInfo.cs
+C:\lw2c\ОООПиП\lab7\TireShopSolution\TireShopLibrary\obj\Debug\net8.0\TireShopLibrary.csproj.CoreCompileInputs.cache
+C:\lw2c\ОООПиП\lab7\TireShopSolution\TireShopLibrary\obj\Debug\net8.0\TireShopLibrary.dll
+C:\lw2c\ОООПиП\lab7\TireShopSolution\TireShopLibrary\obj\Debug\net8.0\refint\TireShopLibrary.dll
+C:\lw2c\ОООПиП\lab7\TireShopSolution\TireShopLibrary\obj\Debug\net8.0\TireShopLibrary.pdb
+C:\lw2c\ОООПиП\lab7\TireShopSolution\TireShopLibrary\obj\Debug\net8.0\ref\TireShopLibrary.dll

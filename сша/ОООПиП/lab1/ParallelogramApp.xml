@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ParallelogramApp</name>
+    </assembly>
+    <members>
+        <member name="T:ParallelogramApp.Parallelogram">
+            <summary>
+            Класс, представляющий параллелограмм на плоскости.
+            </summary>
+        </member>
+        <member name="P:ParallelogramApp.Parallelogram.Vertex1">
+            <summary>
+            Получает или задает координаты первой вершины параллелограмма.
+            </summary>
+        </member>
+        <member name="P:ParallelogramApp.Parallelogram.Vertex2">
+            <summary>
+            Получает или задает координаты второй вершины параллелограмма.
+            </summary>
+        </member>
+        <member name="P:ParallelogramApp.Parallelogram.Vertex3">
+            <summary>
+            Получает или задает координаты третьей вершины параллелограмма.
+            </summary>
+        </member>
+        <member name="P:ParallelogramApp.Parallelogram.Vertex4">
+            <summary>
+            Получает или задает координаты четвертой вершины параллелограмма.
+            </summary>
+        </member>
+        <member name="M:ParallelogramApp.Parallelogram.#ctor(System.ValueTuple{System.Double,System.Double},System.ValueTuple{System.Double,System.Double},System.ValueTuple{System.Double,System.Double},System.ValueTuple{System.Double,System.Double})">
+            <summary>
+            Инициализирует новый экземпляр класса <see cref="T:ParallelogramApp.Parallelogram"/>.
+            </summary>
+            <param name="vertex1">Координаты первой вершины.</param>
+            <param name="vertex2">Координаты второй вершины.</param>
+            <param name="vertex3">Координаты третьей вершины.</param>
+            <param name="vertex4">Координаты четвертой вершины.</param>
+        </member>
+        <member name="M:ParallelogramApp.Parallelogram.IsValid">
+            <summary>
+            Проверяет, является ли параллелограмм допустимым.
+            </summary>
+            <returns>True, если параллелограмм допустим; иначе false.</returns>
+        </member>
+        <member name="M:ParallelogramApp.Parallelogram.AreParallel(System.ValueTuple{System.Double,System.Double},System.ValueTuple{System.Double,System.Double},System.ValueTuple{System.Double,System.Double},System.ValueTuple{System.Double,System.Double})">
+            <summary>
+            Проверяет, являются ли две пары отрезков параллельными.
+            </summary>
+            <param name="v1">Первая вершина первой пары.</param>
+            <param name="v2">Вторая вершина первой пары.</param>
+            <param name="v3">Первая вершина второй пары.</param>
+            <param name="v4">Вторая вершина второй пары.</param>
+            <returns>True, если отрезки параллельны; иначе false.</returns>
+        </member>
+        <member name="M:ParallelogramApp.Parallelogram.SideLength(System.ValueTuple{System.Double,System.Double},System.ValueTuple{System.Double,System.Double})">
+            <summary>
+            Вычисляет длину отрезка между двумя вершинами.
+            </summary>
+            <param name="v1">Первая вершина.</param>
+            <param name="v2">Вторая вершина.</param>
+            <returns>Длину отрезка как <see cref="T:System.Double"/>.</returns>
+        </member>
+        <member name="M:ParallelogramApp.Parallelogram.GetPerimeter">
+            <summary>
+            Получает периметр параллелограмма.
+            </summary>
+            <returns>Периметр параллелограмма как <see cref="T:System.Double"/>.</returns>
+        </member>
+        <member name="M:ParallelogramApp.Parallelogram.GetArea">
+            <summary>
+            Получает площадь параллелограмма.
+            </summary>
+            <returns>Площадь параллелограмма как <see cref="T:System.Double"/>.</returns>
+        </member>
+        <member name="M:ParallelogramApp.Parallelogram.IsPointInside(System.Double,System.Double)">
+            <summary>
+            Проверяет, находится ли данная точка внутри параллелограмма.
+            </summary>
+            <param name="x">Координата X точки.</param>
+            <param name="y">Координата Y точки.</param>
+            <returns>True, если точка внутри параллелограмма; иначе false.</returns>
+        </member>
+        <member name="M:ParallelogramApp.Parallelogram.CalculateTriangleArea(System.ValueTuple{System.Double,System.Double},System.ValueTuple{System.Double,System.Double},System.ValueTuple{System.Double,System.Double})">
+            <summary>
+            Вычисляет площадь треугольника по координатам его вершин.
+            </summary>
+            <param name="v1">Первая вершина треугольника.</param>
+            <param name="v2">Вторая вершина треугольника.</param>
+            <param name="v3">Третья вершина треугольника.</param>
+            <returns>Площадь треугольника как <see cref="T:System.Double"/>.</returns>
+        </member>
+        <member name="M:Program.Main(System.String[])">
+            <summary>
+            Главный метод программы.
+            </summary>
+            <param name="args">Аргументы командной строки.</param>
+        </member>
+        <member name="M:Program.ReadPoint(System.String)">
+            <summary>
+            Читает координаты точки из ввода пользователя.
+            </summary>
+            <param name="prompt">Сообщение для запроса ввода.</param>
+            <returns>Координаты точки как кортеж.</returns>
+        </member>
+    </members>
+</doc>

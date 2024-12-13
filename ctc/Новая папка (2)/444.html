@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Сайт</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="grid-container">
+         <div class="logo">
+            
+         </div>
+
+         <header>
+             <h2>Телеканал СТС представляет
+             </h2>
+         </header>
+
+        <nav>
+            <h2>Панель навигации</h2>
+            <ul>
+                <li><a href="C:\Users\User\Desktop\kurs2\ctc\1\1.1.html">Лабораторная работа № 1</a></li>
+                <li><a href="222.html">Лабораторная работа № 2</a></li>
+                <li><a href="333.html">Лабораторная работа № 3</a></li>
+                <li><a href="444.html">Лабораторная работа № 4</a></li>
+            </ul>
+        </nav>
+
+        <section class="content-container">
+            <article class="content">
+                    <h1>Наследование в JavaScript</h1>
+                    <button id="createTeamButton">Создать бригаду</button>
+                    <button id="testButton">Запустить тест класса Vector</button>
+    
+                    <div id="controls"></div>
+                    <pre id="output"></pre>
+    
+    
+                    <script>
+                        class Vector {
+                            constructor(x, y, z) {
+                                this._x = x;
+                                this._y = y;
+                                this._z = z;
+                            }
+    
+                            get x() {
+                                return this._x;
+                            }
+    
+                            get y() {
+                                return this._y;
+                            }
+    
+                            get z() {
+                                return this._z;
+                            }
+    
+                            plus(vector) {
+                                return new Vector(this.x + vector.x, this.y + vector.y, this.z + vector.z);
+                            }
+    
+                            scalar(vector) {
+                                return this.x * vector.x + this.y * vector.y + this.z * vector.z;
+                            }
+    
+                            get length() {
+                                return Math.sqrt(this.x ** 2 + this.y ** 2 + this.z ** 2);
+                            }
+    
+                            toString() {
+                                return `Vector(${this.x}, ${this.y}, ${this.z})`;
+                            }
+    
+                            valueOf() {
+                                return this.length;
+                            }
+                        }
+    
+                        document.getElementById('testButton').addEventListener('click', () => {
+                            const vector1 = new Vector(1, 2, 3);
+                            const vector2 = new Vector(4, 5, 6);
+                            const output = document.getElementById('output');
+    
+                            output.textContent = ''; // Очистка предыдущего вывода
+    
+                            output.textContent += vector1.toString() + '\n'; // Vector(1, 2, 3)
+                            output.textContent += vector2.toString() + '\n'; // Vector(4, 5, 6)
+    
+                            const sum = vector1.plus(vector2);
+                            output.textContent += sum.toString() + '\n'; // Vector(5, 7, 9)
+    
+                            const scalarProduct = vector1.scalar(vector2);
+                            output.textContent += `Скалярное произведение: ${scalarProduct}\n`; // 32
+    
+                            output.textContent += `Длина vector1: ${vector1.length}\n`; // Длина vector1
+                            output.textContent += `Длина vector2: ${vector2.length}\n`; // Длина vector2
+                        });
+    
+                        class Worker {
+                            constructor(firstName, lastName, dailyRate, daysWorked) {
+                                this.firstName = firstName;
+                                this.lastName = lastName;
+                                this.dailyRate = dailyRate;
+                                this.daysWorked = daysWorked;
+                            }
+    
+                            getSalary() {
+                                return this.dailyRate * this.daysWorked;
+                            }
+    
+                            toString() {
+                                return `${this.firstName} ${this.lastName}, зарплата: ${this.getSalary()}`;
+                            }
+                        }
+    
+                        class Specialist extends Worker {
+                            constructor(firstName, lastName, dailyRate, daysWorked, workType) {
+                                super(firstName, lastName, dailyRate, daysWorked);
+                                this.workType = workType;
+                            }
+    
+                            toString() {
+                                return `${super.toString()}, тип работ: ${this.workType}`;
+                            }
+                        }
+    
+                        class Team {
+                            constructor() {
+                                this.workers = [];
+                            }
+    
+                            addWorker(worker) {
+                                this.workers.push(worker);
+                            }
+    
+                            getTotalSalary() {
+                                return this.workers.reduce((total, worker) => total + worker.getSalary(), 0);
+                            }
+    
+                            toString() {
+                                return this.workers.map(worker => worker.toString()).join('\n');
+                            }
+                        }
+    
+                        document.getElementById('createTeamButton').addEventListener('click', () => {
+                            const team = new Team();
+                            const painter = new Specialist("Иван", "Иванов", 1000, 20, "маляр");
+                            const plasterer = new Specialist("Петр", "Петров", 1200, 15, "штукатур");
+    
+                            team.addWorker(painter);
+                            team.addWorker(plasterer);
+    
+                            const output = document.getElementById('output');
+                            output.textContent =
+                                `Состав бригады:\n${team.toString()}\nОбщая зарплата бригады: ${team.getTotalSalary()}`;
+                        });
+                    </script>
+                </article>
+                <aside class="links">
+                    <a href="https://static.kinoafisha.info/k/series_shots/1920x1080/upload/series/frames/8/3/9/10938/b2a323ceac8a7abfa042b0cf1cc64df9.jpg">Зачем? </a>
+                    <a href="https://chatgpt.com">Почему?</a>
+                    <a href="#">Арбуз?</a>
+                 </aside>
+            </section>
+
+        
+
+            </div>
+            <foot>
+                <p>Разработчик: Важаная Яна</p>
+                <p>Дата документа: 52 сентября 2024</p>
+            </foot>
+            </div>
+    </div>
+   
+</body>
+
+</html>

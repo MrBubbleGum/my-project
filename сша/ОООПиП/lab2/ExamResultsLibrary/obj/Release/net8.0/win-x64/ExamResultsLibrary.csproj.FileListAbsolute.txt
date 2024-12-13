@@ -1,0 +1,12 @@
+C:\lw2c\ОООПиП\lab2\ExamResultsLibrary\bin\Release\net8.0\win-x64\ExamResultsLibrary.deps.json
+C:\lw2c\ОООПиП\lab2\ExamResultsLibrary\bin\Release\net8.0\win-x64\ExamResultsLibrary.dll
+C:\lw2c\ОООПиП\lab2\ExamResultsLibrary\bin\Release\net8.0\win-x64\ExamResultsLibrary.pdb
+C:\lw2c\ОООПиП\lab2\ExamResultsLibrary\bin\Release\net8.0\win-x64\ExamResult.xml
+C:\lw2c\ОООПиП\lab2\ExamResultsLibrary\obj\Release\net8.0\win-x64\ExamResultsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\lw2c\ОООПиП\lab2\ExamResultsLibrary\obj\Release\net8.0\win-x64\ExamResultsLibrary.AssemblyInfoInputs.cache
+C:\lw2c\ОООПиП\lab2\ExamResultsLibrary\obj\Release\net8.0\win-x64\ExamResultsLibrary.AssemblyInfo.cs
+C:\lw2c\ОООПиП\lab2\ExamResultsLibrary\obj\Release\net8.0\win-x64\ExamResultsLibrary.csproj.CoreCompileInputs.cache
+C:\lw2c\ОООПиП\lab2\ExamResultsLibrary\obj\Release\net8.0\win-x64\ExamResultsLibrary.dll
+C:\lw2c\ОООПиП\lab2\ExamResultsLibrary\obj\Release\net8.0\win-x64\refint\ExamResultsLibrary.dll
+C:\lw2c\ОООПиП\lab2\ExamResultsLibrary\obj\Release\net8.0\win-x64\ExamResultsLibrary.pdb
+C:\lw2c\ОООПиП\lab2\ExamResultsLibrary\obj\Release\net8.0\win-x64\ref\ExamResultsLibrary.dll

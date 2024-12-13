@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ArrayConsoleApp/1.0.0": {
+        "dependencies": {
+          "ArrayLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ArrayConsoleApp.dll": {}
+        }
+      },
+      "ArrayLibrary/1.0.0": {
+        "runtime": {
+          "ArrayLibrary.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArrayConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ArrayLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

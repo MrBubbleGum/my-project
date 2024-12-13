@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ArrayLibrary</name>
+    </assembly>
+    <members>
+        <member name="T:ArrayLibrary.OneDimensionalArray">
+            <summary>
+            Класс, представляющий одномерный массив целых чисел.
+            </summary>
+        </member>
+        <member name="M:ArrayLibrary.OneDimensionalArray.#ctor(System.Int32[])">
+            <summary>
+            Конструктор, принимающий массив целых чисел.
+            </summary>
+            <param name="array">Массив целых чисел.</param>
+        </member>
+        <member name="P:ArrayLibrary.OneDimensionalArray.Length">
+            <summary>
+            Свойство для получения длины массива.
+            </summary>
+        </member>
+        <member name="P:ArrayLibrary.OneDimensionalArray.Item(System.Int32)">
+            <summary>
+            Индикатор для доступа к элементам массива.
+            </summary>
+            <param name="index">Индекс элемента.</param>
+            <returns>Элемент массива по указанному индексу.</returns>
+        </member>
+        <member name="M:ArrayLibrary.OneDimensionalArray.FindMax">
+            <summary>
+            Метод для поиска максимального элемента в массиве.
+            </summary>
+            <returns>Максимальный элемент.</returns>
+        </member>
+        <member name="M:ArrayLibrary.OneDimensionalArray.FindMaxInRange(System.Int32,System.Int32)">
+            <summary>
+            Метод для поиска максимального элемента в заданном диапазоне индексов.
+            </summary>
+            <param name="start">Начальный индекс.</param>
+            <param name="end">Конечный индекс.</param>
+            <returns>Максимальный элемент в заданном диапазоне.</returns>
+        </member>
+        <member name="M:ArrayLibrary.OneDimensionalArray.CountGreaterThanLength">
+            <summary>
+            Метод, возвращающий количество элементов, больших длины массива.
+            </summary>
+            <returns>Количество элементов больше длины массива.</returns>
+        </member>
+        <member name="M:ArrayLibrary.OneDimensionalArray.CountLessThanLength">
+            <summary>
+            Метод, возвращающий количество элементов, меньших длины массива.
+            </summary>
+            <returns>Количество элементов меньше длины массива.</returns>
+        </member>
+        <member name="M:ArrayLibrary.OneDimensionalArray.op_Equality(ArrayLibrary.OneDimensionalArray,ArrayLibrary.OneDimensionalArray)">
+            <summary>
+            Переопределение оператора равенства для сравнения объектов.
+            </summary>
+        </member>
+    </members>
+</doc>

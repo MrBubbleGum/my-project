@@ -1,0 +1,11 @@
+C:\lw2c\ОООПиП\lab6\TravelSolution\TravelLibrary\bin\Debug\net8.0\TravelLibrary.deps.json
+C:\lw2c\ОООПиП\lab6\TravelSolution\TravelLibrary\bin\Debug\net8.0\TravelLibrary.dll
+C:\lw2c\ОООПиП\lab6\TravelSolution\TravelLibrary\bin\Debug\net8.0\TravelLibrary.pdb
+C:\lw2c\ОООПиП\lab6\TravelSolution\TravelLibrary\obj\Debug\net8.0\TravelLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\lw2c\ОООПиП\lab6\TravelSolution\TravelLibrary\obj\Debug\net8.0\TravelLibrary.AssemblyInfoInputs.cache
+C:\lw2c\ОООПиП\lab6\TravelSolution\TravelLibrary\obj\Debug\net8.0\TravelLibrary.AssemblyInfo.cs
+C:\lw2c\ОООПиП\lab6\TravelSolution\TravelLibrary\obj\Debug\net8.0\TravelLibrary.csproj.CoreCompileInputs.cache
+C:\lw2c\ОООПиП\lab6\TravelSolution\TravelLibrary\obj\Debug\net8.0\TravelLibrary.dll
+C:\lw2c\ОООПиП\lab6\TravelSolution\TravelLibrary\obj\Debug\net8.0\refint\TravelLibrary.dll
+C:\lw2c\ОООПиП\lab6\TravelSolution\TravelLibrary\obj\Debug\net8.0\TravelLibrary.pdb
+C:\lw2c\ОООПиП\lab6\TravelSolution\TravelLibrary\obj\Debug\net8.0\ref\TravelLibrary.dll

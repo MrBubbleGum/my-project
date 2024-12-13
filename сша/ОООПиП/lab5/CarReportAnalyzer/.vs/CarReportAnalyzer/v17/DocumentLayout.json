@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\lw2c\\\u041E\u041E\u041E\u041F\u0438\u041F\\lab5\\CarReportAnalyzer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{536C7BDF-4523-4793-9179-7D439FF5F52A}|CarNumberExtractorLib.csproj|c:\\lw2c\\\u043E\u043E\u043E\u043F\u0438\u043F\\lab5\\carreportanalyzer\\carnumberextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536C7BDF-4523-4793-9179-7D439FF5F52A}|CarNumberExtractorLib.csproj|solutionrelative:carnumberextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE88349-0241-4B4E-BE89-9EB3EE43105D}|..\\CarNumberExtractorConsoleApp\\CarNumberExtractorConsoleApp.csproj|c:\\lw2c\\\u043E\u043E\u043E\u043F\u0438\u043F\\lab5\\carnumberextractorconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4A4DCB-4739-485C-89FD-9FC40A3C065E}|..\\CarNumberExtractorTests\\CarNumberExtractorTests.csproj|c:\\lw2c\\\u043E\u043E\u043E\u043F\u0438\u043F\\lab5\\carnumberextractortests\\carnumberextractortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\lw2c\\\u041E\u041E\u041E\u041F\u0438\u041F\\lab5\\CarNumberExtractorConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\CarNumberExtractorConsoleApp\\Program.cs",
+              "ToolTip": "C:\\lw2c\\\u041E\u041E\u041E\u041F\u0438\u041F\\lab5\\CarNumberExtractorConsoleApp\\Program.cs",
+              "RelativeToolTip": "..\\CarNumberExtractorConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T16:56:20.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarNumberExtractorTests.cs",
+              "DocumentMoniker": "C:\\lw2c\\\u041E\u041E\u041E\u041F\u0438\u041F\\lab5\\CarNumberExtractorTests\\CarNumberExtractorTests.cs",
+              "RelativeDocumentMoniker": "..\\CarNumberExtractorTests\\CarNumberExtractorTests.cs",
+              "ToolTip": "C:\\lw2c\\\u041E\u041E\u041E\u041F\u0438\u041F\\lab5\\CarNumberExtractorTests\\CarNumberExtractorTests.cs",
+              "RelativeToolTip": "..\\CarNumberExtractorTests\\CarNumberExtractorTests.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T16:56:00.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarNumberExtractor.cs",
+              "DocumentMoniker": "C:\\lw2c\\\u041E\u041E\u041E\u041F\u0438\u041F\\lab5\\CarReportAnalyzer\\CarNumberExtractor.cs",
+              "RelativeDocumentMoniker": "CarNumberExtractor.cs",
+              "ToolTip": "C:\\lw2c\\\u041E\u041E\u041E\u041F\u0438\u041F\\lab5\\CarReportAnalyzer\\CarNumberExtractor.cs",
+              "RelativeToolTip": "CarNumberExtractor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T16:42:15.52Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
